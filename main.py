@@ -63,3 +63,4 @@ try:
 
 except ValueError:
     print("Insert digits ONLY")
+ #todo add an input so the player decides the number of retries

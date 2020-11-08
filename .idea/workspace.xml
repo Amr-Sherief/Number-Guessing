@@ -41,6 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -101,21 +102,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="blank" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="263" key="GridCell.Tab.0.bottom" timestamp="1604873628726">
+    <state width="1259" height="263" key="GridCell.Tab.0.bottom" timestamp="1604874153863">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1604873628726" />
-    <state width="1259" height="263" key="GridCell.Tab.0.center" timestamp="1604873628726">
+    <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1604874153863" />
+    <state width="1259" height="263" key="GridCell.Tab.0.center" timestamp="1604874153863">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1604873628726" />
-    <state width="1259" height="263" key="GridCell.Tab.0.left" timestamp="1604873628726">
+    <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1604874153863" />
+    <state width="1259" height="263" key="GridCell.Tab.0.left" timestamp="1604874153863">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1604873628726" />
-    <state width="1259" height="263" key="GridCell.Tab.0.right" timestamp="1604873628726">
+    <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1604874153863" />
+    <state width="1259" height="263" key="GridCell.Tab.0.right" timestamp="1604874153863">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1604873628726" />
+    <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1604874153863" />
+    <state x="141" y="136" key="SettingsEditor" timestamp="1604874090389">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="136" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1604874090389" />
   </component>
 </project>
