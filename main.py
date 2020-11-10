@@ -5,6 +5,12 @@ infinite = [0 , 0 , 0 , 0]
 small_numbers = [1, 2, 3]
 
 try:
+    number_of_retries = input()
+
+    for i in range(int(number_of_retries)-1):
+        number_of_retries.insert(0)
+
+
     insert = input()                                  #the insert of the player
     insert = insert.split(" ")
 
@@ -15,7 +21,7 @@ try:
     number = random.choice(guessing_numbers)          #the random number that the player should guess
 
                                                       #the player's guess of the number
-    for i in infinite:
+    for i in number_of_retries:
         small_guess = random.choice(small_numbers)
         small_guess_2 = random.choice(small_numbers)
         try_1 = input()
