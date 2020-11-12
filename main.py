@@ -1,11 +1,11 @@
 import random
 
-infinite = [0 , 0 , 0 , 0]
-
 small_numbers = [1, 2, 3]
 
 try:
+    
     print("Enter the number of tries:")
+
     number_of_retries = input()
     number_of_retries_list = []
     for i in range(1, int(number_of_retries)):
