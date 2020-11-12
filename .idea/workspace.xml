@@ -11,6 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd879c08-3a78-4030-855c-970b0f1ee481" name="Default Changelist" comment="blank">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Number Guessing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Number Guessing.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -40,6 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
@@ -67,6 +71,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cd879c08-3a78-4030-855c-970b0f1ee481" name="Default Changelist" comment="" />
@@ -102,22 +109,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="blank" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="263" key="GridCell.Tab.0.bottom" timestamp="1605178085867">
+    <state x="420" y="233" key="FileChooserDialogImpl" timestamp="1605193470221">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1605178085867" />
-    <state width="1259" height="263" key="GridCell.Tab.0.center" timestamp="1605178085867">
+    <state x="420" y="233" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1605193470221" />
+    <state width="1264" height="267" key="GridCell.Tab.0.bottom" timestamp="1605194608039">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1605178085867" />
-    <state width="1259" height="263" key="GridCell.Tab.0.left" timestamp="1605178085867">
+    <state width="1264" height="267" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1605194608039" />
+    <state width="1264" height="267" key="GridCell.Tab.0.center" timestamp="1605194608039">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1605178085867" />
-    <state width="1259" height="263" key="GridCell.Tab.0.right" timestamp="1605178085867">
+    <state width="1264" height="267" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1605194608039" />
+    <state width="1264" height="267" key="GridCell.Tab.0.left" timestamp="1605194608039">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1605178085867" />
+    <state width="1264" height="267" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1605194608039" />
+    <state width="1264" height="267" key="GridCell.Tab.0.right" timestamp="1605194608039">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1264" height="267" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1605194608039" />
     <state x="141" y="136" key="SettingsEditor" timestamp="1605039104197">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
